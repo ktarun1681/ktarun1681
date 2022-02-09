@@ -12,6 +12,7 @@
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
 <!--   [![Linkedin: Tarun K.](https://img.shields.io/badge/-Tarun%20K.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktarun1681/)](https://www.linkedin.com/in/ktarun1681/) -->
+<!--   https://img.shields.io/badge/-Tarun%20K.%7C%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ktarun1681/ -->
 <!--     [![Port Folio: Tarun K.](https://img.shields.io/badge/-Tarun%20K.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ktarun1681.github.io)](https://https://ktarun1681.github.io) -->
 </p>
 <!-- <img align='left' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
