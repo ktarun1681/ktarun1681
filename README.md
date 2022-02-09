@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
-<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+This+is+Tarun+K.></p>
+<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=monospace&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+This+is+Tarun+K.></p>
 
 <p align="center">
   <a href="mailto:tarun.k0@yahoo.com" target="blank">
@@ -11,13 +11,15 @@
   <a href="https://www.linkedin.com/in/ktarun1681/" target="blank">
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
+<!--   [![Linkedin: Tarun K.](https://img.shields.io/badge/-Tarun%20K.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktarun1681/)](https://www.linkedin.com/in/ktarun1681/) -->
 </p>
-
+<!-- <img align='left' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
+ -->
 
 <h3 align="center">A passionate Data Scientist</h3>
 <h4 align="center">Pronouns: He/Him</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ktarun1681&label=Profile%20views&color=0e75b6&style=flat" alt="ankit404butfound" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ktarun1681&label=Profile%20views&color=0e75b6&style=flat" alt="ktarun1681" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktarun1681" alt="ktarun1681" /></a> </p>
 
