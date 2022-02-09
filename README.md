@@ -12,6 +12,7 @@
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
 <!--   [![Linkedin: Tarun K.](https://img.shields.io/badge/-Tarun%20K.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktarun1681/)](https://www.linkedin.com/in/ktarun1681/) -->
+<!--     [![Port Folio: Tarun K.](https://img.shields.io/badge/-Tarun%20K.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ktarun1681.github.io)](https://https://ktarun1681.github.io) -->
 </p>
 <!-- <img align='left' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
  -->
@@ -30,8 +31,8 @@
 - 📫 How to reach me **tarun.k0@yahoo.com**
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goal: Contribute more to Open Source projects.
-- ⚡ Check out my [Portfolio](http://ktarun1681.github.io/)
-- 💬  I frequently write on medium about AI, ML, DL. Read [My Blogs](https://medium.com/@ktarun1681)
+- ⚡ Check out my [![Portfolio: Tarun K.](https://img.shields.io/badge/-Tarun%20K.%7CPortfolio-darkgreen?style=flat-square&logo=github&logoColor=white&link=https://ktarun1681.github.io)](https://ktarun1681.github.io)
+- 💬  I frequently write on medium about AI, ML, DL. Read [![Medium: Tarun K.](https://img.shields.io/badge/-Tarun%20K.%7CBlogs-blue?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ktarun1681)](https://medium.com/@ktarun1681)
 - ⚡ Fun fact: I love to take pictures and lift weights.
 
 
