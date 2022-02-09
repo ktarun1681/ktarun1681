@@ -22,7 +22,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ktarun1681&label=Profile%20views&color=0e75b6&style=flat" alt="ktarun1681" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktarun1681" alt="ktarun1681" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktarun1681" alt="ktarun1681" /></a> </p> -->
 
 - 🌱 I’m currently learning **Deep Learning**
 
