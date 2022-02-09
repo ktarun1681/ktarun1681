@@ -53,6 +53,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt ="Numpy" width = "40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt ="TensorFlow" width = "40" height="40" />
 <a href = "https://atom.io/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt ="Atom" width = "40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt ="Pycharm" width = "40" height="40" />
   
 </p>
 
