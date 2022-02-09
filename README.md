@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:tarun.k0@yahoo.com" target="blank">
-    <img align="center" bg-color= #0d7193 width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg" alt="Send E-Mail">
+    <img align="center" bg-color= #0d7193 width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Send E-Mail">
   </a>
 
   <a href="https://www.linkedin.com/in/ktarun1681/" target="blank">
