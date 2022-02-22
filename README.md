@@ -8,7 +8,7 @@
     <img align="center" bg-color= #0d7193 width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Send E-Mail">
   </a>
 
-  <a href="https://www.linkedin.com/in/ktarun1681/" target="blank">
+  <a href="https://www.linkedin.com/in/tarunk0/" target="blank">
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
 <!--   [![Linkedin: Tarun K.](https://img.shields.io/badge/-Tarun%20K.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktarun1681/)](https://www.linkedin.com/in/ktarun1681/) -->
