@@ -61,11 +61,11 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktarun1681&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ktarun1681" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunk0&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ktarun1681" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktarun1681&show_icons=true&locale=en&theme=gotham" alt="ktarun1681" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunk0&show_icons=true&locale=en&theme=gotham" alt="tarunk0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktarun1681&theme=gotham" alt="ktarun1681" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunk0&theme=gotham" alt="tarunk0" /></p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tarun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ktarun1681&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/tarunk0/github-readme-activity-graph"><img alt="Tarun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tarunk0&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
 
