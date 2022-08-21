@@ -25,9 +25,9 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktarun1681" alt="ktarun1681" /></a> </p> -->
 
-- 🌱 I’m currently learning **Deep Learning**, **DevOps** and **Cloud Computing**
+- 🌱 I’m currently learning **Deep Learning**, **MLOPS** **Cloud Computing*
 
-- 💬 Ask me about **Python, Machine Learning, Data Analysis, Data Visualisation, SQL, Statistics, Algebra**
+- 💬 Ask me about **DevOps**, **Machine Learning** **Data Visualisation** , **Statistics** and **Algebra**
 
 - 📫 How to reach me **tarun.k0@yahoo.com**
 - 👯 I’m looking to collaborate with other developers.
