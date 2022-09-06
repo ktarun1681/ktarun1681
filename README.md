@@ -39,6 +39,10 @@
 <h3> Skills and Tools: </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ansible,atom,aws,azure,gcp,bash,bootstrap,css,django,flask,dynamodb,fastapi,gitlab,github,githubactions,gradle,maven,grafana,prometheus,heroku,html,css,js,latex,linux,mongodb,mysql,postgresql,nginx,sqlite,tensorflow,pytorch,vscode,atom,&perline=24)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
+</p>
 <!--<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
