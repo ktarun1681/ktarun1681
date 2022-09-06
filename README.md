@@ -36,8 +36,10 @@
 - 💬  I frequently write on medium about AI, ML, DL. Read on [![Medium: Tarun K.](https://img.shields.io/badge/-Tarun%20K.%7CBlogs-blue?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tarun.k0)](https://medium.com/@tarun.k0)
 - ⚡ Fun fact: I love to take pictures and lift weights.
 
+<h3> Skills and Tools: </h3>
 
-<h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ansible,atom,aws,azure,gcp,bash,bootstrap,css,django,flask,dynamodb,fastapi,gitlab,github,githubactions,gradle,maven,grafana,prometheus,heroku,html,css,js,latex,linux,mongodb,mysql,postgresql,nginx,sqlite,tensorflow,pytorch,vscode,atom,&perline=24)](https://skillicons.dev)
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
@@ -59,7 +61,7 @@
 <a href = "https://atom.io/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt ="Atom" width = "40" height="40" /> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt ="Pycharm" width = "40" height="40" />
   
-</p>
+</p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunk0&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ktarun1681" /></p>
 
