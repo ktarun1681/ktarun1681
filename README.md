@@ -18,7 +18,7 @@
 <!-- <img align='left' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
  -->
 
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">An aspiring MLOps Engineer, currently working as a DevOps!</h3>
 <h4 align="center">Pronouns: He/Him</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ankit404butfound&label=Profile%20views&color=0e75b6&style=flat" alt="tarunk0" /> </p>
@@ -41,7 +41,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ansible,atom,aws,azure,gcp,bash,bootstrap,css,django,flask,dynamodb,fastapi,gitlab,github,githubactions,gradle,maven,grafana,prometheus,heroku,html,css,js,latex,linux,mongodb,mysql,postgresql,nginx,sqlite,tensorflow,pytorch,vscode,atom,&perline=24)](https://skillicons.dev)
 
 <p align="center">
-  <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
+  <img src="https://github.com/tarunk0/tarunk0/blob/main/MySkills.gif"/>
 </p>
 <!--<h3 align="left">Languages and Tools:</h3>
 <p align="left">
