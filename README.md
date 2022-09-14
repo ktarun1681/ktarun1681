@@ -33,7 +33,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goal: Contribute more to Open Source projects.
 - ⚡ Check out my Portfolio [![Portfolio: Tarun K.](https://img.shields.io/badge/-Tarun%20K.%7CPortfolio-darkgreen?style=flat-square&logo=github&logoColor=white&link=https://tarunk.github.io)](https://tarunk0.github.io)
-- 💬  I frequently write on medium about AI, ML, DL. Read on [![Medium: Tarun K.](https://img.shields.io/badge/-Tarun%20K.%7CBlogs-blue?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tarun.k0)](https://medium.com/@tarun.k0)
+- 💬  I frequently write on medium about AI, ML, DL DevOps, MLOps. Read on [![Medium: Tarun K.](https://img.shields.io/badge/-Tarun%20K.%7CBlogs-blue?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tarun.k0)](https://medium.com/@tarun.k0)
 - ⚡ Fun fact: I love to take pictures and lift weights.
 
 <h3> Skills and Tools: </h3>
