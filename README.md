@@ -74,5 +74,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunk0&theme=gotham" alt="tarunk0" /></p>
 
-<a href="https://github.com/tarunk0/github-readme-activity-graph"><img alt="Tarun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tarunk0&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/tarunk0/github-readme-activity-graph"><img alt="Tarun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tarunk0&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a> -->
 
