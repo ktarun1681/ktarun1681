@@ -18,11 +18,11 @@
 <!-- <img align='left' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
  -->
 
-<h3 align="center">An aspiring MLOps Engineer, currently working as a DevOps!</h3>
+<!-- <h3 align="center">An aspiring MLOps Engineer, currently working as a DevOps!</h3> -->
 <h4 align="center">Pronouns: He/Him</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ankit404butfound&label=Profile%20views&color=0e75b6&style=flat" alt="tarunk0" /> </p>
-
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ankit404butfound&label=Profile%20views&color=0e75b6&style=flat" alt="tarunk0" /> </p>
+ -->
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktarun1681" alt="ktarun1681" /></a> </p> -->
 
 - 🌱 I’m currently learning *Deep Learning*, *MLOps* and *Cloud Computing*
